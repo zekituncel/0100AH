@@ -1,3 +1,3 @@
 # 0100AH
 
-    * _no texts at the moment_ ...
+    * _no texts at the moment_
