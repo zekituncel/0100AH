@@ -1,0 +1,58 @@
+#####ARABICA#SUBJECT#
+
+
+######## BEGofRECORD ###################################################
+#000000# 000.SortField	:: JK_007507
+#NewRec# 000.BookURI	:: NOCODE
+#NewRec# 010.AuthorAKA	:: السليك بن عمرو
+#NewRec# 010.AuthorNAME	:: السليك بن عمرو
+#NewRec# 011.AuthorBORN	:: NOTGIVEN
+#NewRec# 011.AuthorDIED	:: 9999
+#NewRec# 019.AuthorDIED	:: NODATA
+#NewRec# 020.BookTITLE	:: ديوان السليك بن عمرو
+#NewRec# 020.BookTITLESUB	:: NODATA
+#NewRec# 021.BookSUBJ	:: جاهلي :: دواوين الشعر العربي
+#NewRec# 022.BookVOLS	:: 1
+#NewRec# 025.BookLANG	:: NODATA
+#NewRec# 029.BookTITLEalt	:: ديوان السليك بن عمرو
+#NewRec# 030.LibURI	:: JK_007507
+#NewRec# 030.LibURIextra	:: NODATA
+#NewRec# 031.LibREADONLINE	:: NODATA
+#NewRec# 031.LibURL	:: NODATA
+#NewRec# 031.LibURLFILE	:: NODATA
+#NewRec# 031.LibURLextra	:: NODATA
+#NewRec# 040.EdALL	:: NODATA
+#NewRec# 040.EdEDITOR	:: NODATA
+#NewRec# 041.EdNUMBER	:: NODATA
+#NewRec# 041.EdNumber	:: NODATA
+#NewRec# 043.EdPUBLISHER	:: NODATA
+#NewRec# 044.EdPLACE	:: NODATA
+#NewRec# 045.EdYEAR	:: NODATA
+#NewRec# 049.EdISBN	:: NODATA
+#NewRec# 049.EdPAGES	:: NODATA
+#NewRec# 049.EdPHYSICAL	:: NODATA
+#NewRec# 049.EdVOLUME	:: NODATA
+#NewRec# 090.RecMISC	:: NODATA
+#NewRec# 999.MiscINFO	:: NODATA
+
+
+
+#####FILENAME#JK_007507
+# البحر : طويل 1
+# % لحى الله صعلوكا ، إذا جن ليله % مصافي المشاش ، آلفا كل مجزر % 2
+# % يعد الغنى من نفسه ، كل ليلة % % أصاب قراها من صديق ميسر % % 3
+# % ينام عشاء ثم يصبح ناعسا % تحث الحصى عن جنبه المتعفر % % 4
+# % يعين نساء الحي ، ما يستعنه % % ويمسي طليحا كالبعير المحسر %
+~~PageV01P001 البحر : طويل 1
+# % ولكن صعلوكا ، صفيحة وجهه % كضوء شهاب القابس المتنور % % 2
+# % مطلا على أعدائه يزجرونه % % بساحتهم ، زجر المنيح المشهر % 3
+# % فذلك إن يلق المنية يلقها % % حميدا ، وإن يستغن يوما ، فأجدر % %
+~~PageV01P002 البحر : طويل 1
+# % % إذا بعدوا لا يأمنون اقترابه % % 2
+# % وبيض خفاف ، ذات لون مشهر % % PageV01P003 البحر : طويل 1
+# % ترود الأراوي الصحم حولي كأنها % % 2
+# % % جزوعا ، وهل ، عن ذاك ، من متأخر ؟ % 2
+# % فسر في بلاد الله والتمس الغنى % % PageV01P004 البحر : طويل 1
+# % إذا هو أمسى كالعريش المجور % % 2
+# % إذا الليل أدجى واكفهرت نجومه % وصاح ، من الأفراط هام جوائم %
+~~PageV01P005

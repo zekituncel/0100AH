@@ -110,16 +110,35 @@
 
 
 
-# 0100AH [[ [Re]generated on 2016-10-23 (13:19:17) ]]
+# 0100AH [[ [Re]generated on 2016-10-24 (20:10:57) ]]
 
+* `0001AbuTalibCabdManaf.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001AwsIbnHajar.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001HajibIbnMudallil.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
 * `0001HarithIbnHilliza.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
 * `0001HatimTai.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
 * `0001ImruQays.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001KitabAllah.QuranKarim (TAGS: _CENT00NO, _QURAN)`
+* `0001MuhalhilIbnRabica.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001MuthaqqibCabdi.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
 * `0001NabighaDhubyani.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001SalamaIbnJandal.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001SamawalIbnCadiya.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001Shanfara.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001SulaykIbnSulaka.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001TaabbataSharran.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
 * `0001TarafaIbnCabd.Diwan (TAGS: CENT0100, _ADAB, _BALAGHA, _SHICR_JAHILI, _SHICR)`
 * `0001TufaylGhanawi.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001ZuhayrIbnAbiSulma.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0005Hadira.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0007MaymunIbnQaysAcsha.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0026KacbIbnZuhayr.Diwan (TAGS: _CENT00NO, _MUKHADRAM, _SHICR)`
+* `0037IbnMuqbil.Diwan (TAGS: _CENT00NO, _MUKHADRAM, _SHICR)`
 * `0040CaliIbnAbiTalib.NahjBalagha (TAGS: CENT0100, _HADITH, _SHICI)`
 * `0041LabidIbnRabica.Diwan (TAGS: CENT0100, _ADAB, _BALAGHA, _MUKHADRAM, _SHICR)`
+* `0050KhirniqBintBadr.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0080UqayshirAsadi.Diwan (TAGS: _CENT00NO, _SHICR_ISLAMI, _SHICR)`
+* `0090WaddahYaman.Diwan (TAGS: _CENT00NO, _SHICR, _SHICR_UMAWI)`
 * `0094ZaynCabidin.SahifaSajjadiya (TAGS: CENT0100, _HADITH, _SHICI)`
 
 
