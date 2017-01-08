@@ -140,49 +140,57 @@
 
 
 
-# 0100AH [[ [Re]generated on 2017-01-04 (16:16:12) ]]
+# 0100AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
 
-* `0001AbuTalibCabdManaf.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001AwsIbnHajar.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001CalqamaFahl.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001CamrIbnKulthum.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001CamrIbnMalik.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001CamrIbnQumaya.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001CantaraIbnShaddad.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001CurwaIbnWard.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001HajibIbnMudallil.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001HarithIbnHilliza.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001HatimTai.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001ImruQays.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001KitabAllah.QuranKarim (TAGS: _CENT00NO, _QURAN)`
-* `0001LaqitIbnYacmur.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001MuhalhilIbnRabica.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001MuthaqqibCabdi.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001NabighaDhubyani.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001QaysIbnKhatim.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001SalamaIbnJandal.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001SamawalIbnCadiya.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001Shanfara.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001SulaykIbnSulaka.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001TaabbataSharran.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
+* `0001AbuTalibCabdManaf.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001AwsIbnHajar.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001CalqamaFahl.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001CamrIbnKulthum.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001CamrIbnMalik.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001CamrIbnQumaya.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001CantaraIbnShaddad.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001CurwaIbnWard.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001HajibIbnMudallil.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001HarithIbnHilliza.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001HatimTai.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001ImruQays.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001KitabAllah.QuranKarim (TAGS: _QURAN)`
+* `0001LaqitIbnYacmur.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001MuhalhilIbnRabica.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001MuthaqqibCabdi.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001NabighaDhubyani.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001QaysIbnKhatim.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001SalamaIbnJandal.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001SamawalIbnCadiya.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001Shanfara.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001SulaykIbnSulaka.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001TaabbataSharran.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
 * `0001TarafaIbnCabd.Diwan (TAGS: CENT0100, _ADAB, _BALAGHA, _SHICR_JAHILI, _SHICR)`
-* `0001TufaylGhanawi.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0001ZuhayrIbnAbiSulma.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0005Hadira.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0007MaymunIbnQaysAcsha.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0011CamirIbnTufayl.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0022ShammakhIbnDirar.Diwan (TAGS: _CENT00NO, _MUKHADRAM, _SHICR)`
-* `0024TumadirBinCamrKhansa.Diwan (TAGS: _CENT00NO, _MUKHADRAM, _SHICR)`
-* `0026KacbIbnZuhayr.Diwan (TAGS: _CENT00NO, _MUKHADRAM, _SHICR)`
-* `0037IbnMuqbil.Diwan (TAGS: _CENT00NO, _MUKHADRAM, _SHICR)`
+* `0001TufaylGhanawi.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001ZuhayrIbnAbiSulma.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0005Hadira.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0007MaymunIbnQaysAcsha.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0011CamirIbnTufayl.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0021CamrZubaydi.Diwan (TAGS: _MUKHADRAM, _SHICR)`
+* `0022ShammakhIbnDirar.Diwan (TAGS: _MUKHADRAM, _SHICR)`
+* `0024TumadirBinCamrKhansa.Diwan (TAGS: _MUKHADRAM, _SHICR)`
+* `0026KacbIbnZuhayr.Diwan (TAGS: _MUKHADRAM, _SHICR)`
+* `0037IbnMuqbil.Diwan (TAGS: _MUKHADRAM, _SHICR)`
+* `0040CaliIbnAbiTalib.Diwan (TAGS: _SHICR_ISLAMI, _SHICR)`
 * `0040CaliIbnAbiTalib.NahjBalagha (TAGS: CENT0100, _HADITH, _SHICI)`
 * `0041LabidIbnRabica.Diwan (TAGS: CENT0100, _ADAB, _BALAGHA, _MUKHADRAM, _SHICR)`
-* `0045JarwalIbnAwsHutaya.Diwan (TAGS: _CENT00NO, _MUKHADRAM, _SHICR)`
-* `0050KhirniqBintBadr.Diwan (TAGS: _CENT00NO, _SHICR_JAHILI, _SHICR)`
-* `0054HassanIbnThabit.Diwan (TAGS: _CENT00NO, _MUKHADRAM, _SHICR)`
-* `0080UqayshirAsadi.Diwan (TAGS: _CENT00NO, _SHICR_ISLAMI, _SHICR)`
-* `0090WaddahYaman.Diwan (TAGS: _CENT00NO, _SHICR, _SHICR_UMAWI)`
+* `0045JarwalIbnAwsHutaya.Diwan (TAGS: _MUKHADRAM, _SHICR)`
+* `0050KhirniqBintBadr.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0054HassanIbnThabit.Diwan (TAGS: _MUKHADRAM, _SHICR)`
+* `0060MucawiyaIbnAbiSyfyan.Diwan (TAGS: _SHICR_ISLAMI, _SHICR)`
+* `0068AbdAllahIbnCabbas.GharibQuran (TAGS: CENT0100, _CULUM, _QURAN)`
+* `0080LaylaAkhyaliyya.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
+* `0080UqayshirAsadi.Diwan (TAGS: _SHICR_ISLAMI, _SHICR)`
+* `0085SulaymIbnQaysHilali.KitabSulaym (TAGS: CENT0100, _HADITH, _SHICI)`
+* `0090WaddahYaman.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
 * `0094ZaynCabidin.SahifaSajjadiya (TAGS: CENT0100, _HADITH, _SHICI)`
+* `0094ZaynCabidin.SahifaSajjadiya (TAGS: CENT0100, _HADITH, _SHICI)`
+* `0094ZaynCabidin.SharhRisalaHuquq (TAGS: CENT0100, _CAQAID, _SHICI, _TWELVERS)`
 
 
 ## General description of the workflow with mARkdown
