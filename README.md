@@ -77,8 +77,8 @@
 - `0466CabdAzizKattani.DhaylTarikhMawlidCulama (18,115 words; 463 units; 0 bios)`
 - `0476AbuIshaqShirazi.TabaqatFuqaha (30,392 words; 508 units; 0 bios)`
 - `0482AbuIshaqHabbal.WafayatMisriyyin (6,616 words; 497 units; 0 bios)`
-- `0521IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0524IbnAkfani.DhaylDhaylTarikhMawlidCulama (4,082 words; 84 units; 0 bios)`
+- `0526IbnAbiYacla.TabaqatHanabila (169,947 words; 880 units; 0 bios)`
 - `0544CiyadIbnMusaYahsubi.TartibMadarik (320,968 words; 1,177 units; 0 bios)`
 - `0555IbnQalanisi.Tarikh (120,986 words; 157 units; 0 bios)`
 - `0565IbnZaydBayhaqi.TarikhBayhaq (121,031 words; 299 units; 0 bios)`
@@ -140,7 +140,7 @@
 
 
 
-# 0100AH [[ [Re]generated on 2017-01-08 (17:58:22) ]]
+# 0100AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
 
 * `0001AbuTalibCabdManaf.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
 * `0001AwsIbnHajar.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
@@ -154,6 +154,7 @@
 * `0001HarithIbnHilliza.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
 * `0001HatimTai.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
 * `0001ImruQays.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
+* `0001ImruQaysKindi.Diwan (TAGS: _ADAB, _BALAGHA)`
 * `0001KitabAllah.QuranKarim (TAGS: _QURAN)`
 * `0001LaqitIbnYacmur.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
 * `0001MuhalhilIbnRabica.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
