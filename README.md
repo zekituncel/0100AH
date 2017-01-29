@@ -1,8 +1,8 @@
 ## Status Report
  
-* 121 titles
-* 64,448,901 words
-* 333,670 logical units
+* 123 titles
+* 64,656,565 words
+* 333,879 logical units
 * 56,798 bios
 
 ### `*.inProgress` (27 titles: 22,918,512 words; 91,346 units; 0 bios)
@@ -114,12 +114,14 @@
 - `1089IbnCimad.Shadharat (1,097,722 words; 1,143 units; 0 bios)`
 
 
-### `*.mARkdown` (20 titles: 9,024,824 words; 81,596 units; 56,797 bios)
+### `*.mARkdown` (22 titles: 9,232,488 words; 81,805 units; 56,797 bios)
 
 - `0276IbnQutaybaDinawari.AdabKatib (69,366 words; 299 units; 0 bios)`
+- `0300IbnKhurdadhbih.MasalikWaMamalik (35,723 words; 142 units; 0 bios)`
 - `0355MuhammadKindi.QudatMisr (36,490 words; 101 units; 100 bios)`
 - `0355MuhammadKindi.WulatMisr (50,998 words; 132 units; 128 bios)`
 - `0369AbuShaykhIsbahani.TabaqatMuhaddithin (110,503 words; 701 units; 683 bios)`
+- `0390Muqaddasi.AhsanTaqasim (171,942 words; 67 units; 0 bios)`
 - `0403IbnFaradi.TarikhCulamaAndalus (120,674 words; 1,987 units; 1,659 bios)`
 - `0405HakimNaysaburi.TalkhisTarikhNaysabur (35,152 words; 2,519 units; 2,509 bios)`
 - `0427HamzaJurjani.TarikhJurjan (107,903 words; 1,356 units; 1,193 bios)`
@@ -135,12 +137,12 @@
 - `0900AbuCabdAllahHimyari.RawdMictar (323,710 words; 0 units; 0 bios)`
 - `0911Suyuti.LubbLubab (51,027 words; 4,853 units; 0 bios)`
 - `1339IsmacilBashaBaghdadi.HadiyaCarifin (421,313 words; 8,842 units; 8,814 bios)`
-- `1450MawsucaShicriya.MucjamShucara (158,184 words; 2,333 units; 2,305 bios)`
+- `1450MawsucaShicriya.MucjamShucara (158,183 words; 2,333 units; 2,305 bios)`
 
 
 
 
-# 0100AH [[ [Re]generated on 2017-01-22 (16:18:08) ]]
+# 0100AH [[ [Re]generated on 2017-01-29 (12:15:05) ]]
 
 * `0001AbuTalibCabdManaf.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
 * `0001AwsIbnHajar.Diwan (TAGS: _SHICR_JAHILI, _SHICR)`
@@ -176,6 +178,7 @@
 * `0022ShammakhIbnDirar.Diwan (TAGS: _MUKHADRAM, _SHICR)`
 * `0024TumadirBinCamrKhansa.Diwan (TAGS: _MUKHADRAM, _SHICR)`
 * `0026KacbIbnZuhayr.Diwan (TAGS: _MUKHADRAM, _SHICR)`
+* `0030CurwaIbnHizam.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
 * `0037IbnMuqbil.Diwan (TAGS: _MUKHADRAM, _SHICR)`
 * `0040CaliIbnAbiTalib.Diwan (TAGS: _SHICR_ISLAMI, _SHICR)`
 * `0040CaliIbnAbiTalib.NahjBalagha (TAGS: CENT0100, _HADITH, _SHICI)`
@@ -185,13 +188,20 @@
 * `0054HassanIbnThabit.Diwan (TAGS: _MUKHADRAM, _SHICR)`
 * `0060MucawiyaIbnAbiSyfyan.Diwan (TAGS: _SHICR_ISLAMI, _SHICR)`
 * `0068AbdAllahIbnCabbas.GharibQuran (TAGS: CENT0100, _CULUM, _QURAN)`
+* `0068QaysIbnDharihLubna.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
+* `0068QaysMajnunLayla.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
 * `0080LaylaAkhyaliyya.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
 * `0080UqayshirAsadi.Diwan (TAGS: _SHICR_ISLAMI, _SHICR)`
+* `0082JamilButhayna.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
 * `0085SulaymIbnQaysHilali.KitabSulaym (TAGS: CENT0100, _HADITH, _SHICI)`
+* `0090AkhtalShacir.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
+* `0090RaciNumayriShacir.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
 * `0090WaddahYaman.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
+* `0093IbnAbiRabica.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
 * `0094ZaynCabidin.SahifaSajjadiya (TAGS: CENT0100, _HADITH, _SHICI)`
 * `0094ZaynCabidin.SahifaSajjadiya (TAGS: CENT0100, _HADITH, _SHICI)`
 * `0094ZaynCabidin.SharhRisalaHuquq (TAGS: CENT0100, _CAQAID, _SHICI, _TWELVERS)`
+* `0095CadiIbnRiqac.Diwan (TAGS: _SHICR, _SHICR_UMAWI)`
 
 
 ## General description of the workflow with mARkdown
