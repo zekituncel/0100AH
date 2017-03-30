@@ -1,6 +1,4 @@
 ﻿## Status Report
-
-Zeki Tuncel
  
 * 152 titles
 * 81,812,871 words
